@@ -57,8 +57,8 @@
 - 财务：zhaona，123456
 - 员工：liuneng，123456
 ## 五、演示视频
-<video src="https://www.bilibili.com/video/BV1284y1r7C4/?vd_source=1ace35860ef7388b66f874ff683fbc5d"></video>
+（复制后面链接到浏览器即可观看）https://www.bilibili.com/video/BV1284y1r7C4/?vd_source=1ace35860ef7388b66f874ff683fbc5d
 
 ## 六、源码获取
 ### 关注微信公众号 “明日职场” 获取此毕设源码！！！
-![](./wx.png)
+![](./wx.jpg)
